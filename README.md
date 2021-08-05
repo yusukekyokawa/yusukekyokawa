@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![my github stats](https://github-readme-stats.vercel.app/api?username=yusukekyokawa&count_private=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yusukekyokawa)](https://github.com/anuraghazra/github-readme-stats)
