@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ## My stats
 
-[![my github stats](https://github-readme-stats.vercel.app/api?username=yusukekyokawa&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![my github stats](https://github-readme-stats.vercel.app/api?username=yusukekyokawa&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusukekyokawa&layout=compact&langs_count=8&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 
