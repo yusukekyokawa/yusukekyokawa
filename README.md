@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on -> TBD
 - 🌱 I’m currently learning Machine Learning especially Computer Vision.
 
-# Hello, I'm yusuke!https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
+# Hello, I'm yusuke! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## My stats
 <div align=center>
 <!-- 言語 -->
