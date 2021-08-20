@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 My name is Yusuke Kyokawa and I'm a software developer and machine learning researcher.I'm from Japan, living in Chiba prefecture．
 I am a graduate student at Tokyo Denki University.
 
-![](https://vistr.dev/badge?repo=yusukekyokawa.yusukekyokawa&text=Visitors&corners=square)
+
+![](https://vistr.dev/badge?repo=yusukekyokawa.yusukekyokawa)
 
 
 ## 🔧 Technologies & Tools
