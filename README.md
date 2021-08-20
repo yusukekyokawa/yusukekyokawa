@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -->
 ## My stats
 
-### Languages
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic">
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic">
@@ -25,31 +24,21 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Cplusplus-00599C.svg?logo=cplusplus&style=plastic">
   <img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic">
   <img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=plastic">
-
   </p>
-
-
-### Library/Framework
 <p>
 <img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=plastic">
 <img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=plastic">
 <img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=plastic">
 <img src="https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=plastic">
   </p>
-  
-### OS
 <p>
   <img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=plastic">
   <img src="https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&style=plastic">
   <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=plastic">
   <img src="https://img.shields.io/badge/-Apple-999999.svg?logo=apple&style=plastic">
+  <img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic">
+  <img src="https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=kaggle&style=plastic">
   </p>
-  
-### Middle Ware
-<img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic">
-
-### Hobbies
-<img src="https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=kaggle&style=plastic">
 
 
 
