@@ -21,4 +21,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusukekyokawa&layout=compact&langs_count=8&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## Blog Posts
+
+## Social Links
 <!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yusukekyokawa)](https://github.com/anuraghazra/github-readme-stats) -->
