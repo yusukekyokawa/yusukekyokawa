@@ -38,6 +38,7 @@ I am a graduate student at Tokyo Denki University.
 ![](https://img.shields.io/badge/Framework-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-scikit-learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
