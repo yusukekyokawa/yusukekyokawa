@@ -18,36 +18,27 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine Learning especially Computer Vision.
 
 # Hello, I'm yusuke! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name is Yusuke Kyokawa and I'm a software developer and machine learning researcher.I'm from Japan, living in Chiba prefecture．
+I am a graduate student at Tokyo Denki University.
+
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+
+
 ## My stats
-<div align=center>
-<!-- 言語 -->
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic">
-  <img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic">
-  <img src="https://img.shields.io/badge/-R-276DC3.svg?logo=r&style=plastic">
-  <img src="https://img.shields.io/badge/-Cplusplus-00599C.svg?logo=cplusplus&style=plastic">
-  <img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic">
-  <img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=plastic">
-  </p>
-<!-- フレームワーク -->
-<p>
-<img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=plastic">
-<img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=plastic">
-<img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=plastic">
-<img src="https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=plastic">
-  </p>
-<!-- OSとその他 -->
-<p>
-  <img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=plastic">
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&style=plastic">
-  <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=plastic">
-  <img src="https://img.shields.io/badge/-Apple-999999.svg?logo=apple&style=plastic">
-  <img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic">
-  <img src="https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=kaggle&style=plastic">
-  </p>
-</div>
-
-
 [![my github stats](https://github-readme-stats.vercel.app/api?username=yusukekyokawa&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusukekyokawa&layout=compact&langs_count=8&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
