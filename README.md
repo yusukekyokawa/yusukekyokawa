@@ -51,13 +51,6 @@ I am a graduate student at Tokyo Denki University.
 [![my github stats](https://github-readme-stats.vercel.app/api?username=yusukekyokawa&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusukekyokawa&layout=compact&langs_count=8&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## Blog Posts
-
-## Social Links
-<!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yusukekyokawa)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
 ## Publications
 - 高橋秀弥，**鏡川悠介**，前田英作，"深層ニューラルネットワークにおける二重降下現象"，電子情報通信学会総合大会，2022年3月．[pdf](https://www.ieice.org/~iss/jpn/Publications/issposter_2022/data/pdf/ISS-SP-028.pdf)
 - 梅川昇也，**鏡川悠介**，前田英作，"人工生成画像によるTransformerの学習"，電子情報通信学会総合大会，2022年3月．[pdf](https://www.ieice.org/~iss/jpn/Publications/issposter_2022/data/pdf/ISS-SP-016.pdf)
