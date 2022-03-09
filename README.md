@@ -59,7 +59,8 @@ I am a graduate student at Tokyo Denki University.
 
 
 ## Publications
-高橋秀弥，**鏡川悠介**，前田英作，"深層ニューラルネットワークにおける二重降下現象"，電子情報通信学会総合大会，2022年3月
+- 高橋秀弥，**鏡川悠介**，前田英作，"深層ニューラルネットワークにおける二重降下現象"，電子情報通信学会総合大会，2022年3月．[pdf](https://www.ieice.org/~iss/jpn/Publications/issposter_2022/data/pdf/ISS-SP-028.pdf)
+- 梅川昇也，**鏡川悠介**，前田英作，"人工生成画像によるTransformerの学習"，電子情報通信学会総合大会，2022年3月．[pdf](https://www.ieice.org/~iss/jpn/Publications/issposter_2022/data/pdf/ISS-SP-016.pdf)
 
 
 ![](https://img.shields.io/badge/Framework-scikit-learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=2bbc8a)
