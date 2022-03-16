@@ -31,7 +31,7 @@ I am a graduate student at Tokyo Denki University.
 - **鏡川悠介**，伊藤千紘，酒造正樹，前田英作，"GANを利用した工業製品の外観異常検知"，第22回 画像の認識・理解シンポジウム (MIRU2019)，2019年7月．[Link](http://cvim.ipsj.or.jp/MIRU2019/index.php?id=day3) [pdf](https://drive.google.com/file/d/1Xf9jaKKsWYvdG759Synf38SdxyIRXJ_j/view?usp=sharing) [[Poster]](https://drive.google.com/file/d/1J1Rq1sTGKWCkqKnM-BueRmRtIAe-Xbde/view?usp=sharing)
 - 安藤申将，伊藤千紘，**鏡川悠介**，皆川哲範，酒造正樹，前田英作，"識別器差分による識別器クローン手法"，電子情報通信学会 総合大会，2019年3月．[pdf](https://www.ieice.org/~iss/jpn/Publications/issposter_2019/data/pdf/ISS-SP-043.pdf)
 
-## 受賞記録
+## Awards
 - 情報処理学会 人文科学とコンピュータシンポジウム じんもんこん2021 学生奨励賞 [URL](https://www.dendai.ac.jp/dendai-people/20220307-01.html) [URL](http://jinmoncom.jp/sympo2021/)
 - 第22回PRMUアルゴリズムコンテスト 最優秀賞 [URL](https://www.dendai.ac.jp/dendai-people/20181218-01.html)
 
