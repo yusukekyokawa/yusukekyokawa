@@ -37,6 +37,11 @@ I am a graduate student at Tokyo Denki University.
 
 ![](https://img.shields.io/badge/Framework-scikit-learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=2bbc8a)
 
+## Activity
+
+- JPHacks
+- NI+C Geekチャレンジ
+
 ## &#x1f4c8;My stats
 [![my github stats](https://github-readme-stats.vercel.app/api?username=yusukekyokawa&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusukekyokawa&layout=compact&langs_count=8&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
