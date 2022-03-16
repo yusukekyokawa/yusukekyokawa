@@ -28,7 +28,7 @@ I am a graduate student at Tokyo Denki University.
 - 高橋秀弥，**鏡川悠介**，前田英作，"深層ニューラルネットワークにおける二重降下現象"，電子情報通信学会総合大会，2022年3月．[pdf](https://www.ieice.org/~iss/jpn/Publications/issposter_2022/data/pdf/ISS-SP-028.pdf)
 - 梅川昇也，**鏡川悠介**，前田英作，"人工生成画像によるTransformerの学習"，電子情報通信学会総合大会，2022年3月．[pdf](https://www.ieice.org/~iss/jpn/Publications/issposter_2022/data/pdf/ISS-SP-016.pdf)
 - **鏡川悠介**，久保山哲二，加茂瑞穂，前田英作，"伝統文様アノテーション自動化のための自然画像とフラクタル画像による事前学習"，情報処理学会 人文科学とコンピュータシンポジウム「じんもんこん2021」，2021年12月．[Link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=215799&item_no=1&page_id=13&block_id=8)
-- **鏡川悠介**，伊藤千紘，酒造正樹，前田英作，"GANを利用した工業製品の外観異常検知"，第22回 画像の認識・理解シンポジウム (MIRU2019)，2019年7月．[Link](http://cvim.ipsj.or.jp/MIRU2019/index.php?id=day3) [pdf](https://drive.google.com/file/d/1Xf9jaKKsWYvdG759Synf38SdxyIRXJ_j/view?usp=sharing)
+- **鏡川悠介**，伊藤千紘，酒造正樹，前田英作，"GANを利用した工業製品の外観異常検知"，第22回 画像の認識・理解シンポジウム (MIRU2019)，2019年7月．[Link](http://cvim.ipsj.or.jp/MIRU2019/index.php?id=day3) [pdf](https://drive.google.com/file/d/1Xf9jaKKsWYvdG759Synf38SdxyIRXJ_j/view?usp=sharing) [[Poster]](https://drive.google.com/file/d/1J1Rq1sTGKWCkqKnM-BueRmRtIAe-Xbde/view?usp=sharing)
 - 安藤申将，伊藤千紘，**鏡川悠介**，皆川哲範，酒造正樹，前田英作，"識別器差分による識別器クローン手法"，電子情報通信学会 総合大会，2019年3月．[pdf](https://www.ieice.org/~iss/jpn/Publications/issposter_2019/data/pdf/ISS-SP-043.pdf)
 
 ## 受賞記録
