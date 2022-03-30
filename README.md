@@ -39,9 +39,11 @@ I am a graduate student at Tokyo Denki University.
 
 ![](https://img.shields.io/badge/Framework-scikit-learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=2bbc8a)
 
-## Activity
+## Activities
 - AIイノベーションAWARD 2022 [Official](https://www.nttpc.co.jp/innovationlab/event/ai_innovation_award_2022/)
 - JPHacks
+- 第23回PRMUアルゴリズムコンテスト [公式サイト](https://sites.google.com/view/alcon2019)
+- 第22回PRMUアルゴリズムコンテスト [公式サイト](https://sites.google.com/view/alcon2018)
 - NI+C Geekチャレンジ
 
 ## &#x1f4c8;My stats
