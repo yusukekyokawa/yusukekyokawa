@@ -33,7 +33,7 @@ I am a graduate student at Tokyo Denki University.
 
 ## Awards
 - 東京電機大学大学院情報環境学研究科 学術貢献賞
-- 電子情報通信学会 2022年総合大会 ジュニア&学生ポスターセッション 優秀賞受賞
+- 電子情報通信学会 2022年総合大会 ジュニア&学生ポスターセッション 優秀賞受賞(共著) [URL](https://www.dendai.ac.jp/dendai-people/20220318-01.html)
 - 情報処理学会 人文科学とコンピュータシンポジウム じんもんこん2021 学生奨励賞 [URL](https://www.dendai.ac.jp/dendai-people/20220307-01.html) [URL](http://jinmoncom.jp/sympo2021/)
 - 第22回PRMUアルゴリズムコンテスト 最優秀賞 [URL](https://www.dendai.ac.jp/dendai-people/20181218-01.html)
 
