@@ -32,7 +32,7 @@ I am a graduate student at Tokyo Denki University.
 - 安藤申将，伊藤千紘，**鏡川悠介**，皆川哲範，酒造正樹，前田英作，"識別器差分による識別器クローン手法"，電子情報通信学会 総合大会，2019年3月．[pdf](https://www.ieice.org/~iss/jpn/Publications/issposter_2019/data/pdf/ISS-SP-043.pdf)
 
 ## Awards
-- 東京電気大学大学院情報環境学研究科 2021年度後期　優秀発表賞
+- 東京電機大学大学院情報環境学研究科 2021年度後期　優秀発表賞
 - 東京電機大学大学院情報環境学研究科 学術貢献賞
 - 電子情報通信学会 2022年総合大会 ジュニア&学生ポスターセッション 優秀賞受賞(共著) [URL](https://www.dendai.ac.jp/dendai-people/20220318-01.html)
 - 情報処理学会 人文科学とコンピュータシンポジウム じんもんこん2021 学生奨励賞 [URL](https://www.dendai.ac.jp/dendai-people/20220307-01.html) [URL](http://jinmoncom.jp/sympo2021/)
