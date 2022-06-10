@@ -22,9 +22,10 @@ I am a graduate student at Tokyo Denki University.
 ![](https://vistr.dev/badge?repo=yusukekyokawa.yusukekyokawa)
 
 ## Publications
-- **鏡川悠介**, 久保山哲二, 前田英作, "深層距離学習による伝統文様の多様表現学習", 2022年7月(予定)
-- 高橋秀弥，**鏡川悠介**，前田英作, "二重降下減少とDNNにおける形状・テクスチャ", 2022年7月(予定)
-- 梅川昇也，**鏡川悠介**，前田英作, "人工生成画像とViTを用いた画像識別タスクの高性能化について", 2022年7月(予定)
+- 
+- **鏡川悠介**, 久保山哲二, 前田英作, "深層距離学習による伝統文様の多様表現学習", 2022年7月[poster]
+- 高橋秀弥，**鏡川悠介**，前田英作, "二重降下減少とDNNにおける形状・テクスチャ", 2022年7月(予定)[short oral]
+- 梅川昇也，**鏡川悠介**，前田英作, "人工生成画像とViTを用いた画像識別タスクの高性能化について", 2022年7月(予定)[poster]
 - 高橋秀弥，**鏡川悠介**，前田英作，"深層ニューラルネットワークにおける二重降下現象"，電子情報通信学会総合大会，2022年3月．[[pdf]](https://www.ieice.org/~iss/jpn/Publications/issposter_2022/data/pdf/ISS-SP-028.pdf)
 - 梅川昇也，**鏡川悠介**，前田英作，"人工生成画像によるTransformerの学習"，電子情報通信学会総合大会，2022年3月．[[pdf]](https://www.ieice.org/~iss/jpn/Publications/issposter_2022/data/pdf/ISS-SP-016.pdf)
 - **鏡川悠介**，久保山哲二，加茂瑞穂，前田英作，"伝統文様アノテーション自動化のための自然画像とフラクタル画像による事前学習"，情報処理学会 人文科学とコンピュータシンポジウム「じんもんこん2021」，2021年12月．[[Link]](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=215799&item_no=1&page_id=13&block_id=8)
@@ -40,6 +41,10 @@ I am a graduate student at Tokyo Denki University.
 - 第22回PRMUアルゴリズムコンテスト 最優秀賞 [[URL]](https://www.dendai.ac.jp/dendai-people/20181218-01.html)
 
 ![](https://img.shields.io/badge/Framework-scikit-learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=2bbc8a)
+
+## Media
+産学共創イベント「AIイノベーションアワード2022」ビジネスアイデア＆プログラミングコンテストでチーム「AID」が最優秀賞を獲得, 毎日新聞 [[URL]]()https://mainichi.jp/univ/articles/20220523/org/00m/100/002000c
+【AIイノベーションアワード2022】 集え！未来のAI人材たち。チーム共創による社会・技術課題への挑戦。 - Vol.2 ビジネスアイデア＆プログラミングコンテスト編 -　 [[URL]](https://sotokoto-online.jp/sustainability/14061)
 
 ## Activities
 - AIイノベーションAWARD 2022 [[公式サイト]](https://www.nttpc.co.jp/innovationlab/event/ai_innovation_award_2022/)
