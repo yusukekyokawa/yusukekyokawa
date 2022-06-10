@@ -22,7 +22,7 @@ I am a graduate student at Tokyo Denki University.
 ![](https://vistr.dev/badge?repo=yusukekyokawa.yusukekyokawa)
 
 ## Publications
-- 
+- 杉田 拓磨, 岡澤 律来, 金田 龍平, 高橋 秀弥, **鏡川 悠介**, 前田 英作, "物語文を入力とする自動挿絵生成システム", 2022年7月[[poster]]
 - **鏡川悠介**, 久保山哲二, 前田英作, "深層距離学習による伝統文様の多様表現学習", 2022年7月[poster]
 - 高橋秀弥，**鏡川悠介**，前田英作, "二重降下減少とDNNにおける形状・テクスチャ", 2022年7月(予定)[short oral]
 - 梅川昇也，**鏡川悠介**，前田英作, "人工生成画像とViTを用いた画像識別タスクの高性能化について", 2022年7月(予定)[poster]
