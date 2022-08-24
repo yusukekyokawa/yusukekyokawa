@@ -33,7 +33,7 @@ I am a graduate student at Tokyo Denki University.
 - 安藤申将，伊藤千紘，**鏡川悠介**，皆川哲範，酒造正樹，前田英作，"識別器差分による識別器クローン手法"，電子情報通信学会 総合大会，2019年3月．[[pdf]](https://www.ieice.org/~iss/jpn/Publications/issposter_2019/data/pdf/ISS-SP-043.pdf)
 
 ## Awards
-- AIイノベーションアワード2022 最優秀賞
+- AIイノベーションアワード2022 最優秀賞[コンテスト公式](https://www.nttpc.co.jp/innovationlab/event/ai_innovation_award_2022/)[[結果URL]](https://sotokotonews.com/special/sotokoto_PRoffice/2196)
 - 東京電機大学大学院情報環境学研究科 2021年度後期　優秀発表賞
 - 東京電機大学大学院情報環境学研究科 学術貢献賞
 - 電子情報通信学会 2022年総合大会 ジュニア&学生ポスターセッション 優秀賞受賞(共著) [[URL]](https://www.dendai.ac.jp/dendai-people/20220318-01.html)
@@ -43,8 +43,9 @@ I am a graduate student at Tokyo Denki University.
 ![](https://img.shields.io/badge/Framework-scikit-learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=2bbc8a)
 
 ## Media
-産学共創イベント「AIイノベーションアワード2022」ビジネスアイデア＆プログラミングコンテストでチーム「AID」が最優秀賞を獲得, 毎日新聞 [[URL]]()https://mainichi.jp/univ/articles/20220523/org/00m/100/002000c
-【AIイノベーションアワード2022】 集え！未来のAI人材たち。チーム共創による社会・技術課題への挑戦。 - Vol.2 ビジネスアイデア＆プログラミングコンテスト編 -　 [[URL]](https://sotokoto-online.jp/sustainability/14061)
+- "江戸川乱歩作品をAIで読み解く～物語を「伝える」ための全自動挿絵生成システムを考案～", TDU Agora Vol54.(2022年6月号)[pdf](https://www.dendai.ac.jp/about/gakuen/publicity/tduagora/e5vdec00000173ze-att/e5vdec000002hxjg.pdf)
+- 産学共創イベント「AIイノベーションアワード2022」ビジネスアイデア＆プログラミングコンテストでチーム「AID」が最優秀賞を獲得, 毎日新聞 [[URL]]()https://mainichi.jp/univ/articles/20220523/org/00m/100/002000c
+- 【AIイノベーションアワード2022】 集え！未来のAI人材たち。チーム共創による社会・技術課題への挑戦。 - Vol.2 ビジネスアイデア＆プログラミングコンテスト編 -　 [[URL]](https://sotokoto-online.jp/sustainability/14061)
 
 ## Activities
 - AIイノベーションAWARD 2022 [[公式サイト]](https://www.nttpc.co.jp/innovationlab/event/ai_innovation_award_2022/)
@@ -52,6 +53,9 @@ I am a graduate student at Tokyo Denki University.
 - 第23回PRMUアルゴリズムコンテスト [[公式サイト]](https://sites.google.com/view/alcon2019)
 - 第22回PRMUアルゴリズムコンテスト [[公式サイト]](https://sites.google.com/view/alcon2018)
 - NI+C Geekチャレンジ
+
+## Others
+- [NTTPC()来るべきAI時代を担う機械学習の専門人材を育成GPUサーバーで研究サイクルを加速](https://www.nttpc.co.jp/gpu/usecase/tdu.html)
 
 ## &#x1f4c8;My stats
 [![my github stats](https://github-readme-stats.vercel.app/api?username=yusukekyokawa&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
