@@ -46,7 +46,7 @@ I am a graduate student at Tokyo Denki University.
 
 ## Media
 - "江戸川乱歩作品をAIで読み解く～物語を「伝える」ための全自動挿絵生成システムを考案～", TDU Agora Vol54.(2022年6月号)[[pdf]](https://www.dendai.ac.jp/about/gakuen/publicity/tduagora/e5vdec00000173ze-att/e5vdec000002hxjg.pdf)
-- 産学共創イベント「AIイノベーションアワード2022」ビジネスアイデア＆プログラミングコンテストでチーム「AID」が最優秀賞を獲得, 毎日新聞 [[URL]]()https://mainichi.jp/univ/articles/20220523/org/00m/100/002000c
+- 産学共創イベント「AIイノベーションアワード2022」ビジネスアイデア＆プログラミングコンテストでチーム「AID」が最優秀賞を獲得, 毎日新聞 [[URL]](https://mainichi.jp/univ/articles/20220523/org/00m/100/002000c)
 - 【AIイノベーションアワード2022】 集え！未来のAI人材たち。チーム共創による社会・技術課題への挑戦。 - Vol.2 ビジネスアイデア＆プログラミングコンテスト編 -　 [[URL]](https://sotokoto-online.jp/sustainability/14061)
 
 ## Activities
