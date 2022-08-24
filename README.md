@@ -21,29 +21,31 @@ I am a graduate student at Tokyo Denki University.
 
 ![](https://vistr.dev/badge?repo=yusukekyokawa.yusukekyokawa)
 
-## Publications
-- 杉田 拓磨, 岡澤 律来, 金田 龍平, 高橋 秀弥, **鏡川 悠介**, 前田 英作, "物語文を入力とする自動挿絵生成システム", 2022年7月[[poster]]
-- **鏡川悠介**, 久保山哲二, 前田英作, "深層距離学習による伝統文様の多様表現学習", 2022年7月[poster]
-- 高橋秀弥，**鏡川悠介**，前田英作, "二重降下減少とDNNにおける形状・テクスチャ", 2022年7月(予定)[short oral]
-- 梅川昇也，**鏡川悠介**，前田英作, "人工生成画像とViTを用いた画像識別タスクの高性能化について", 2022年7月(予定)[poster]
-- 高橋秀弥，**鏡川悠介**，前田英作，"深層ニューラルネットワークにおける二重降下現象"，電子情報通信学会総合大会，2022年3月．[[pdf]](https://www.ieice.org/~iss/jpn/Publications/issposter_2022/data/pdf/ISS-SP-028.pdf)
-- 梅川昇也，**鏡川悠介**，前田英作，"人工生成画像によるTransformerの学習"，電子情報通信学会総合大会，2022年3月．[[pdf]](https://www.ieice.org/~iss/jpn/Publications/issposter_2022/data/pdf/ISS-SP-016.pdf)
-- **鏡川悠介**，久保山哲二，加茂瑞穂，前田英作，"伝統文様アノテーション自動化のための自然画像とフラクタル画像による事前学習"，情報処理学会 人文科学とコンピュータシンポジウム「じんもんこん2021」，2021年12月．[[Link]](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=215799&item_no=1&page_id=13&block_id=8)
-- **鏡川悠介**，伊藤千紘，酒造正樹，前田英作，"GANを利用した工業製品の外観異常検知"，第22回 画像の認識・理解シンポジウム (MIRU2019)，2019年7月．[[Link]](http://cvim.ipsj.or.jp/MIRU2019/index.php?id=day3) [[pdf]](https://drive.google.com/file/d/1Xf9jaKKsWYvdG759Synf38SdxyIRXJ_j/view?usp=sharing) [[Poster]](https://drive.google.com/file/d/1J1Rq1sTGKWCkqKnM-BueRmRtIAe-Xbde/view?usp=sharing)
-- 安藤申将，伊藤千紘，**鏡川悠介**，皆川哲範，酒造正樹，前田英作，"識別器差分による識別器クローン手法"，電子情報通信学会 総合大会，2019年3月．[[pdf]](https://www.ieice.org/~iss/jpn/Publications/issposter_2019/data/pdf/ISS-SP-043.pdf)
-
 ## Awards
-- AIイノベーションアワード2022 最優秀賞[コンテスト公式](https://www.nttpc.co.jp/innovationlab/event/ai_innovation_award_2022/)[[結果URL]](https://sotokotonews.com/special/sotokoto_PRoffice/2196)
+- AIイノベーションアワード2022 最優秀賞[[コンテスト公式]](https://www.nttpc.co.jp/innovationlab/event/ai_innovation_award_2022/)[[結果URL]](https://sotokotonews.com/special/sotokoto_PRoffice/2196)
 - 東京電機大学大学院情報環境学研究科 2021年度後期　優秀発表賞
 - 東京電機大学大学院情報環境学研究科 学術貢献賞
 - 電子情報通信学会 2022年総合大会 ジュニア&学生ポスターセッション 優秀賞受賞(共著) [[URL]](https://www.dendai.ac.jp/dendai-people/20220318-01.html)
 - 情報処理学会 人文科学とコンピュータシンポジウム じんもんこん2021 学生奨励賞 [[URL]](https://www.dendai.ac.jp/dendai-people/20220307-01.html) [URL](http://jinmoncom.jp/sympo2021/)
 - 第22回PRMUアルゴリズムコンテスト 最優秀賞 [[URL]](https://www.dendai.ac.jp/dendai-people/20181218-01.html)
 
+
+## Publications
+- 杉田 拓磨, 岡澤 律来, 金田 龍平, 高橋 秀弥, **鏡川 悠介**, 前田 英作, "物語文を入力とする自動挿絵生成システム", 2022年7月[[poster]]
+- **鏡川悠介**, 久保山哲二, 前田英作, "深層距離学習による伝統文様の多様表現学習", 2022年7月[[poster]]
+- 高橋秀弥，**鏡川悠介**，前田英作, "二重降下減少とDNNにおける形状・テクスチャ", 2022年7月(予定)[[short oral]]
+- 梅川昇也，**鏡川悠介**，前田英作, "人工生成画像とViTを用いた画像識別タスクの高性能化について", 2022年7月(予定)[[poster]]
+- 高橋秀弥，**鏡川悠介**，前田英作，"深層ニューラルネットワークにおける二重降下現象"，電子情報通信学会総合大会，2022年3月．[[pdf]](https://www.ieice.org/~iss/jpn/Publications/issposter_2022/data/pdf/ISS-SP-028.pdf)
+- 梅川昇也，**鏡川悠介**，前田英作，"人工生成画像によるTransformerの学習"，電子情報通信学会総合大会，2022年3月．[[pdf]](https://www.ieice.org/~iss/jpn/Publications/issposter_2022/data/pdf/ISS-SP-016.pdf)
+- **鏡川悠介**，久保山哲二，加茂瑞穂，前田英作，"伝統文様アノテーション自動化のための自然画像とフラクタル画像による事前学習"，情報処理学会 人文科学とコンピュータシンポジウム「じんもんこん2021」，2021年12月．[[Link]](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=215799&item_no=1&page_id=13&block_id=8)
+- **鏡川悠介**，伊藤千紘，酒造正樹，前田英作，"GANを利用した工業製品の外観異常検知"，第22回 画像の認識・理解シンポジウム (MIRU2019)，2019年7月．[[Link]](http://cvim.ipsj.or.jp/MIRU2019/index.php?id=day3) [[pdf]](https://drive.google.com/file/d/1Xf9jaKKsWYvdG759Synf38SdxyIRXJ_j/view?usp=sharing) [[Poster]](https://drive.google.com/file/d/1J1Rq1sTGKWCkqKnM-BueRmRtIAe-Xbde/view?usp=sharing)
+- 安藤申将，伊藤千紘，**鏡川悠介**，皆川哲範，酒造正樹，前田英作，"識別器差分による識別器クローン手法"，電子情報通信学会 総合大会，2019年3月．[[pdf]](https://www.ieice.org/~iss/jpn/Publications/issposter_2019/data/pdf/ISS-SP-043.pdf)
+
+
 ![](https://img.shields.io/badge/Framework-scikit-learn-informational?style=flat&logo=scikitlearn&logoColor=white&color=2bbc8a)
 
 ## Media
-- "江戸川乱歩作品をAIで読み解く～物語を「伝える」ための全自動挿絵生成システムを考案～", TDU Agora Vol54.(2022年6月号)[pdf](https://www.dendai.ac.jp/about/gakuen/publicity/tduagora/e5vdec00000173ze-att/e5vdec000002hxjg.pdf)
+- "江戸川乱歩作品をAIで読み解く～物語を「伝える」ための全自動挿絵生成システムを考案～", TDU Agora Vol54.(2022年6月号)[[pdf]](https://www.dendai.ac.jp/about/gakuen/publicity/tduagora/e5vdec00000173ze-att/e5vdec000002hxjg.pdf)
 - 産学共創イベント「AIイノベーションアワード2022」ビジネスアイデア＆プログラミングコンテストでチーム「AID」が最優秀賞を獲得, 毎日新聞 [[URL]]()https://mainichi.jp/univ/articles/20220523/org/00m/100/002000c
 - 【AIイノベーションアワード2022】 集え！未来のAI人材たち。チーム共創による社会・技術課題への挑戦。 - Vol.2 ビジネスアイデア＆プログラミングコンテスト編 -　 [[URL]](https://sotokoto-online.jp/sustainability/14061)
 
