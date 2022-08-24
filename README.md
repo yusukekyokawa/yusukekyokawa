@@ -51,7 +51,7 @@ I am a graduate student at Tokyo Denki University.
 
 ## Activities
 - AIイノベーションAWARD 2022 [[公式サイト]](https://www.nttpc.co.jp/innovationlab/event/ai_innovation_award_2022/)
-- JPHacks
+- JPHacks2019
 - 第23回PRMUアルゴリズムコンテスト [[公式サイト]](https://sites.google.com/view/alcon2019)
 - 第22回PRMUアルゴリズムコンテスト [[公式サイト]](https://sites.google.com/view/alcon2018)
 - NI+C Geekチャレンジ
