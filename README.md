@@ -59,6 +59,10 @@ I am a graduate student at Tokyo Denki University.
 ## Others
 - [NTTPC()来るべきAI時代を担う機械学習の専門人材を育成GPUサーバーで研究サイクルを加速](https://www.nttpc.co.jp/gpu/usecase/tdu.html)
 
+## 保有資格
+- 基本情報技術者
+- AWS Certified Developer - Associate
+
 ## &#x1f4c8;My stats
 [![my github stats](https://github-readme-stats.vercel.app/api?username=yusukekyokawa&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusukekyokawa&layout=compact&langs_count=8&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
