@@ -1,6 +1,6 @@
 # Yusuke Kyokawa / 鏡川 悠介
 
-Machine learning engineer at Hakuhodo Technologies interested in computer vision, deep learning, AI-driven development, and tools for reading, organizing, and understanding information.
+Software engineer at Hakuhodo Technologies, interested in computer vision, deep learning, AI-driven development, and tools for reading, organizing, and understanding information.
 
 I studied computer vision and machine learning at Tokyo Denki University, working on applications around image recognition, generative models, and cultural heritage datasets.
 
