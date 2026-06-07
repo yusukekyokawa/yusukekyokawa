@@ -1,40 +1,40 @@
-# Yusuke Kyokawa / 鏡川 悠介
+# 鏡川 悠介 / Yusuke Kyokawa
 
-Software engineer at Hakuhodo Technologies, interested in computer vision, deep learning, AI-driven development, and tools for reading, organizing, and understanding information.
+博報堂テクノロジーズでソフトウェアエンジニアとして働いています。
 
-I studied computer vision and machine learning at Tokyo Denki University, working on applications around image recognition, generative models, and cultural heritage datasets.
+コンピュータビジョン、深層学習、AI駆動開発、情報収集・整理を支えるツールづくりに関心があります。東京電機大学では、画像認識、生成モデル、文化資源データセットを対象とした機械学習応用に取り組んでいました。
 
-## Focus
+## 関心領域
 
-- Computer vision and deep learning
-- Applied machine learning systems
-- AI-driven development workflows and engineering productivity
-- Digital archives and pattern recognition for traditional Japanese designs
-- Information collection workflows, developer tooling, and automation
+- コンピュータビジョン、深層学習
+- 機械学習を用いた応用システム
+- AI駆動開発、開発生産性、開発組織のワークフロー設計
+- 伝統文様の認識、デジタルアーカイブ
+- 情報収集ワークフロー、開発者向けツール、自動化
 
-## Selected Work
+## 主な活動
 
-- Led team AID, which won the Grand Prize at AI Innovation Award 2022 with an AI system concept for reading Edogawa Ranpo works and generating illustrations.
-- Contributed to machine learning contest work at Tokyo Denki University's Data Science and Machine Learning Lab, including PRMU algorithm contest activities.
-- Speaker at Qiita Conference 2026 on AI-driven development workflows, organization design, and release velocity.
+- AI Innovation Award 2022 で、江戸川乱歩作品をAIで読み解き挿絵を生成するシステムを提案したチーム「AID」のリーダーを務め、最優秀賞を受賞しました。
+- 東京電機大学 データ科学・機械学習研究室で、画像認識・生成モデル・伝統文様認識などの研究に取り組みました。
+- Qiita Conference 2026 で、AI駆動開発の組織設計、現場への導入、リリース速度向上について登壇しました。
 
-## Selected Research
+## 研究発表
 
-- Yusuke Kyokawa, Tetsuji Kuboyama, Mizuho Kamo, and Eisaku Maeda. "Automated Annotation of Stencil Images using Pre-trained models with Natural and Fractal Images." IPSJ Jinmoncom 2021, pp. 260-267. Student Encouragement Award.
-- Yusuke Kyokawa, Tetsuji Kuboyama, and Eisaku Maeda. "深層距離学習を利用した伝統文様のカテゴリ識別手法に関する検討." MIRU 2022, IS1-23.
-- Hideya Takahashi, Yusuke Kyokawa, and Eisaku Maeda. "深層学習における二重降下現象と画像のテクスチャ・形状性について." MIRU 2022, OS1A-5.
-- Nobuya Umekawa, Takuma Sugita, Yusuke Kyokawa, and Eisaku Maeda. "人工生成画像とVisionTransformerを用いた画像識別タスクの高性能化について." MIRU 2022, IS3-40.
-- Takuma Sugita, Ritsuki Okazawa, Ryuhei Kaneda, Hideya Takahashi, Yusuke Kyokawa, and Eisaku Maeda. "物語文を入力とする自動挿絵生成システム." MIRU 2022, IS3-75.
+- 鏡川 悠介, 久保山 哲二, 加茂 瑞穂, 前田 英作. 「伝統文様アノテーション自動化のための自然画像とフラクタル画像による事前学習」, じんもんこん2021論文集, pp. 260-267, 2021. 学生奨励賞.
+- 鏡川 悠介, 久保山 哲二, 前田 英作. 「深層距離学習を利用した伝統文様のカテゴリ識別手法に関する検討」, MIRU 2022, IS1-23.
+- 髙橋 秀弥, 鏡川 悠介, 前田 英作. 「深層学習における二重降下現象と画像のテクスチャ・形状性について」, MIRU 2022, OS1A-5.
+- 梅川 昇也, 杉田 拓磨, 鏡川 悠介, 前田 英作. 「人工生成画像とVisionTransformerを用いた画像識別タスクの高性能化について」, MIRU 2022, IS3-40.
+- 杉田 拓磨, 岡澤 律来, 金田 龍平, 高橋 秀弥, 鏡川 悠介, 前田 英作. 「物語文を入力とする自動挿絵生成システム」, MIRU 2022, IS3-75.
 
-## Links
+## リンク
 
 - Qiita: [@YKIYOLO](https://qiita.com/YKIYOLO)
 - Qiita: [@YusukeKyokawa](https://qiita.com/YusukeKyokawa)
 - GitHub: [@yusukekyokawa](https://github.com/yusukekyokawa)
-- IPSJ paper record: [伝統文様アノテーション自動化のための自然画像とフラクタル画像による事前学習](https://ipsj.ixsq.nii.ac.jp/records/215799)
+- IPSJ 論文レコード: [伝統文様アノテーション自動化のための自然画像とフラクタル画像による事前学習](https://ipsj.ixsq.nii.ac.jp/records/215799)
 - CiNii Research: [Automated Annotation of Stencil Images using Pre-trained models with Natural and Fractal Images](https://cir.nii.ac.jp/crid/1050574047087275904)
-- MIRU 2022 program: [画像の認識・理解シンポジウム 2022](https://sites.google.com/view/miru2022/program)
-- Tokyo Denki University award note: [じんもんこん2021 学生奨励賞](https://www.dendai.ac.jp/dendai-people/20220307-01.html)
-- AI Innovation Award 2022: [Team AID, Grand Prize](https://sotokoto-online.jp/sdgs/14061)
+- MIRU 2022 プログラム: [画像の認識・理解シンポジウム 2022](https://sites.google.com/view/miru2022/program)
+- 東京電機大学 受賞記事: [じんもんこん2021 学生奨励賞](https://www.dendai.ac.jp/dendai-people/20220307-01.html)
+- AI Innovation Award 2022: [チーム AID 最優秀賞](https://sotokoto-online.jp/sdgs/14061)
 - Qiita Conference 2026: [リリース速度を変えるAI駆動開発](https://qiita.com/official-campaigns/conference/2026)
-- Hakuhodo Technologies: [Qiita Conference 2026 speaker profile](https://recruit.hakuhodo-technologies.co.jp/hadoh/3468/)
+- 博報堂テクノロジーズ: [Qiita Conference 2026 登壇者プロフィール](https://recruit.hakuhodo-technologies.co.jp/hadoh/3468/)
